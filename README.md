@@ -9,4 +9,4 @@ Esse repósitorio faz parte das atividades práticas do Basecamp de Javascript, 
 - Se os elementos possuirem a classe dark-mode, modifique seus estilos. Caso contrário, volte os estilos para o original.
 
 ## Demonstração:
-https://raw.githubusercontent.com/stebsnusch/basecamp-javascript/main/DOM/dark-mode-exercicio.gif 
+![dark-mode-exercicio](https://user-images.githubusercontent.com/81202455/164918481-7942078e-63e0-4544-9ec6-9e43249d95db.gif) 
